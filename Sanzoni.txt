@@ -3,4 +3,4 @@ aaa
 
 Teste de commit com novo arquivo
 
-Versão 1.1
+Versão 1.2
